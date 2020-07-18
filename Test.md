@@ -24,4 +24,4 @@ Home > County Specifics > Petty Expense > Section
 9. Default Warehouse would be selected as per which wherehouse will affect for specif expance as per stock 
 10. Selct the name of Cash Customer which is provide the expance in cash select that customer 11. Select the name of Cash Customer POS Profile (which custome POS is already created into ERPNEXT system for particular transaction)
 11. Set the Monthly Target as per your target and save the document
-ory in the transactions.
+
