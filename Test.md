@@ -70,7 +70,4 @@ Home > County Specifics > Petty Expense > Expance Record
 4. Enter the bill number which our company get the bill or receipt of expance
 5. Attach the receipt or bill of image which you get from the expance u did for comapy
 6. then save the expance record the approve it then submit the record while we subbmit the record in backgroung general entry happens which is link to this document.(General entry would we the expace against you spend the money and it will reflect to the general ledger)
-
-
-
-
+7. Relode the document you will the the general Entey Created
