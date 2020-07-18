@@ -25,3 +25,52 @@ Home > County Specifics > Petty Expense > Section
 10. Selct the name of Cash Customer which is provide the expance in cash select that customer 11. Select the name of Cash Customer POS Profile (which custome POS is already created into ERPNEXT system for particular transaction)
 11. Set the Monthly Target as per your target and save the document
 
+
+
+*Country Specifics* > Petty Expense > Expense Type
+# Expense Type
+
+An Expance type is an entry of which kind of expance has happn in to the company.
+
+An Expance type shows any kind of expances like Repairs and Maintenance Motor Vehicle,Salary Local,Electricity Expenses and many more...
+
+To access an Expance Type list, go to:
+Home > County Specifics > Petty Expense > Expance Type
+
+*1. How to create Expance Type in ERPNext.*
+
+1. Go to the Expance Type list and click on New.
+2. ter the name of the expance type (This name will appear in the transactions for which expance type are created).
+3. Company name should be selected by default as we created comapny while set up erpnext for yr company.
+4. Select the name of Fuel Station (This will show thw which are this expance would be accure )
+5. Select the name of Expance Account (This entry will reflact in to account of direct or indirect expance )
+6. check  Related to Oil Company if expanace type is relat to oil based company 
+7. Save the Document
+
+*Country Specifics* > Petty Expense > Expense Record
+
+# Expense Record
+
+ An expense record is record or entry of a transaction  as an outflow of money or assets to another individual or company as payment for an item or service.
+ 
+ 1. Prerequisites 
+Before creating and using an expance record, it is advised that you create the following first:
+
+- Section 
+- Expance Type
+
+To access an Expance Record list, go to:
+Home > County Specifics > Petty Expense > Expance Record
+
+*1 How to create Expance Record in ERPNext.*
+
+1. Go to the Expance Record list and click on New
+2. Select the name of Expense Type (This name will appear in the transactions for which expance Type are created)
+3. Set the Expance amount of your expance
+4. Enter the bill number which our company get the bill or receipt of expance
+5. Attach the receipt or bill of image which you get from the expance u did for comapy
+6. then save the expance record the approve it then submit the record while we subbmit the record in backgroung general entry happens which is link to this document.(General entry would we the expace against you spend the money and it will reflect to the general ledger)
+
+
+
+
